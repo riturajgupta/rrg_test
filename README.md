@@ -1,6 +1,5 @@
 Description
 -----------
-
 This module help you to alter the existing drupal site information page where "Site API Key" new field is added.
 
 When this form is submitted, the value for this field will be saved as the system variable named "siteapikey". 
@@ -14,20 +13,22 @@ This module also provides a URL that responds with a JSON representation of a gi
 
 Requirements
 ------------
-
 This module requires Drupal 8.
 
 
 Installation
 ------------
+Install as usual.
 
-1) Copy/upload the rrg_test module folder to the sites/all/modules/custom/
-directory of your Drupal installation. 
+Place the entirety of this directory in the /modules folder of your Drupal
+installation. Navigate to Administer > Extend. Check the 'Enabled' box next
+to the 'RRG Test' in 'Custom' package and then click
+the 'Save Configuration' button at the bottom.
 
-2) Enable the this module in Drupal (administer -> modules).
+For help regarding installation, visit:
+https://www.drupal.org/documentation/install/modules-themes/modules-8
 
 
 Author
 ------
-
 rituraj <rituraj.onnet@gmail.com>
