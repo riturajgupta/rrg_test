@@ -1,5 +1,7 @@
 name: RRG Test
 type: module
 description: This is custom module for altering existing drupal site information
-core: 8.x
-package: Custom
+version: '8.x-1.20'
+core: '8.x'
+package: 'Custom'
+datestamp: 1505199847
