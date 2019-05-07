@@ -5,3 +5,4 @@ rrg_test.rrg_test_nodecheck:
     _title: 'pagejson'
   requirements:
     _permission: 'access content'
+    

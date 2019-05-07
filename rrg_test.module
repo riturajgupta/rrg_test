@@ -20,7 +20,7 @@ function rrg_test_help($route_name, RouteMatchInterface $route_match) {
       $output .= '<p>' . t('This is my custom module for altering existing drupal site information') . '</p>';
       return $output;
 
-    default:
+    default: 
   }
 }
 
