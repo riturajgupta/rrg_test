@@ -42,5 +42,4 @@ class rrg_test extends ControllerBase {
 	  throw new \Symfony\Component\HttpKernel\Exception\AccessDeniedHttpException(); 
     }
   }
-  
 }
