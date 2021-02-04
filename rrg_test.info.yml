@@ -1,4 +1,4 @@
-name: RRG Test
+name: RRG Test Module
 type: module
 description: This is custom module for altering existing drupal site information
 version: '8.x-1.20'
